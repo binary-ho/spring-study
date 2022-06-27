@@ -11,6 +11,8 @@ https://wedul.site/693
 2. setApplicationDestinationPrefixes()는 서버에서 클라이언트로 부터 메세지를 전달받을 api의 prefixes를 설정한다.
 3. addEndpoint: 엔드포인트를 설정한다.
 
+이 문서는 여기까지만 읽고 [[여기]](https://github.com/binary-ho/spring-study/blob/main/study/STOMP%EC%99%80%20Spring%20WebSocket.md)로 넘어가면 된다
+
 ```java
 @Configuration
 @EnableWebSocketMessageBroker
