@@ -33,3 +33,8 @@ Appconfig.calculate, Appconfig.calculator, Appconfig.calculate 3개가 출력되
 
 **그런데 @Configuration을 이용해서 명시적으로 설정파일임을 알려주면 알아서 Bean들을 싱글톤으로 유지시켜 주기 때문에, 
 Appconfig.calculate, Appconfig.calculator 두개만 찍히게 된다.**
+
+
+## 참고
+https://castleone.tistory.com/2
+아주 자세히 쓰여있다.
