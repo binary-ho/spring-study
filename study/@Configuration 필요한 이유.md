@@ -1,6 +1,6 @@
 # @Configuration 
 @Configuration 애노테이션을 사용하면 해당 파일이 설정 파일이고, 여기에 Bean을 등록할 거라고 알려줄 수가 있다. <br>
-그냥  AnnotationConfigApplicationContext() 안에 적어줘도 되는거 아닌가? 아니다.
+그냥  AnnotationConfigApplicationContext() 안에 적어줘도 되는거 아닌가? 아니다. **싱글톤**
 
 ```java
 package Test.sample;
